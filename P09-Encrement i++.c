@@ -1,6 +1,6 @@
-/* Calculate the area of a circle */
+/* USES OF INCREMENT OPERATOR */
 /* Page: 436 */
-/* Program: 8 */
+/* Program: 9 */
 
 #include<stdio.h>
 
