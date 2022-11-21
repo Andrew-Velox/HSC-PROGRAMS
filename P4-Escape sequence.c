@@ -1,4 +1,4 @@
-// Uses of escape sequence or you can say new line "\n"
+// Using escape sequence "\n" (new line)
 // Page: 430
 // Program: 4
 
