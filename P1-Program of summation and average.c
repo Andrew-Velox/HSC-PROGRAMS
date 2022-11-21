@@ -1,5 +1,7 @@
 /* Program of summation and average */
 /* Page:422 */
+/* Program: 1 */
+
 
 #include<stdio.h>
 int main(){
