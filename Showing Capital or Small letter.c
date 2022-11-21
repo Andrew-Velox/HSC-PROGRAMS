@@ -1,5 +1,6 @@
 /* Showing Capital or Small letter */
 /* Page: 426 */
+/* Program: 2 */
 
 #include <stdio.h>
 int main(){
