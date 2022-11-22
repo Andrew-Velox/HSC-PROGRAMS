@@ -1,4 +1,4 @@
-/* Conditional statement (if & else if) */
+/* Conditional statement (if,else if & else) */
 /* Page: 447 */
 /* Program: 19 */
 
