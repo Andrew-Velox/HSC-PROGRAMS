@@ -8,13 +8,13 @@
 int main(){
   
   
-  char alphabet='A';
+  char alphabet='a';
   
   do{
       printf("% c\t ", alphabet ++);
   
       }
-      while(alphabet<='Z');
+      while(alphabet<='z');
       return 0;
   
   
