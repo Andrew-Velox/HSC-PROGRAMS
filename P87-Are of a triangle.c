@@ -1,4 +1,4 @@
-/* Area of a circle */
+/* Area of a triangle */
 /* Page: 476 */
 /* Program: 87 */
 
