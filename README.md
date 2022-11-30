@@ -1,6 +1,6 @@
 # HSC-PROGRAMS
 
- I am trying to write all the c programmes of HSC ICT chapter 5,
+ I am trying to write all the c programmes of HSC ICT book.
 
 
 <!--# 📂 C/C++ Programs from the book of HSC. -->
