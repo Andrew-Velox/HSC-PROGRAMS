@@ -6,7 +6,7 @@
 
 int main(){
      
-     float cm,M;
+     float f,M;
      
      printf(" Enter the Value of f : ");
      scanf("%f",&f);
