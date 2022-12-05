@@ -1,4 +1,4 @@
-/* Inch to Chentimeter */
+/* Inch to Centimeter */
 /* Page: 474 */
 /* Program: 70 */
 
