@@ -1,4 +1,4 @@
-/* Area of a square  */
+/* perimeter of a square  */
 /* Page: 478 */
 /* Program: 82 */
 
