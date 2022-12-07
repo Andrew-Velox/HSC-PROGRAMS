@@ -1,4 +1,4 @@
-/* Volume of cube a formula */
+/* Volume of a cube */
 /* Page: 478 */
 /* Program: 98 */
 
