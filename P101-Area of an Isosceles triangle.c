@@ -1,5 +1,5 @@
 /* Area of an Isosceles triangle */
-/* Page: 478 */
+/* Page: 475 */
 /* Program: 101 */
 
 #include <stdio.h>
