@@ -6,10 +6,10 @@
 
 int main(){
     
-    printf("Uses of \n escape sequence ");
+    printf("Uses of escape sequence ");
     printf("\n\t Uses of escape sequence ");
     printf("\n\t\t Uses of escape sequence ");
-    printf("\n\t Uses of escape sequence ");
+    printf("\n\t\t\t Uses of escape sequence ");
     return 0;
     
     }
