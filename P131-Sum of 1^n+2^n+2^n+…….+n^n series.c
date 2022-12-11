@@ -6,7 +6,7 @@
 #include <stdio.h>
 #include <math.h>
 int main(){
-    int tt,num,i,sum=0;
+    int num,i,sum=0;
     
     printf(" Enter a num  = ");
     scanf("%d",&num);
